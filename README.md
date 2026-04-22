@@ -3,7 +3,7 @@
 # 🚩 Mobile Robot Flag System (Yandex Rover Modification)
 
 <p align="center">
-  <img src="Picture/Main.png" alt="Флаг на ровере" width="80%">
+  <img src="Picture/Main.png" alt="Флаг на ровере" width="15%">
 </p>
 
 
