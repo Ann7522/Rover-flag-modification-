@@ -2,6 +2,8 @@
 
 # 🚩 Mobile Robot Flag System (Yandex Rover Modification)
 
+![Flag](Picture/Main.png)
+
 ## 📌 Overview
 This project is a modular folding mount for the flag on the Yandex rover.   
 The flag is designed to be visible from all sides thanks to its cylindrical retroreflective surface, which takes into account the physiological characteristics of information perception.   
