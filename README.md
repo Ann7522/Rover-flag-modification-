@@ -2,7 +2,7 @@
 # 🚩 Mobile Robot Flag System (Yandex Rover Modification)
 
 <p align="center">
-  <img src="Picture/Main.png" alt="Флаг на ровере" width="13%">
+  <img src="Picture/Main.png" alt="Флаг на ровере" width="15%">
 </p>
 
 
@@ -41,9 +41,6 @@ The system consists of 5 main components:
 * Anti-loosening mechanism (Retaining Ring)
 * Vibration compensation system
   
-<p align="center">
-  <img src="Video/gif.mp4" alt="Demonstration of the folding mechanism" width="13%">
-</p>
 
 ---
 
