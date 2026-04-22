@@ -2,7 +2,10 @@
 
 # 🚩 Mobile Robot Flag System (Yandex Rover Modification)
 
-![Flag](Picture/Main.png)
+<p align="center">
+  <img src="Picture/Main.png" alt="Флаг на ровере" width="80%">
+</p>
+
 
 ## 📌 Overview
 This project is a modular folding mount for the flag on the Yandex rover.   
