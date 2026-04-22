@@ -68,7 +68,7 @@ All parts are manufactured using **PETG**:
 * Compensator effectiveness depends on real damping properties
 * Wind speed up to **7 m/s** ✅
 * Wind speed (survival) up to 9 m/s (risk of fracture) ⚠️
-> 📊 Full calculations: [docs/calculations.md](docs/calculations.md)
+> 📊 Full calculations: [docs/Drawlings/calculations.md](docs/Drawlings/calculations.md)
 ---
 
 ## 📊 Performance Analysis
