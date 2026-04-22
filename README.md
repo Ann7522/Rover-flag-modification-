@@ -42,7 +42,7 @@ The system consists of 5 main components:
 * Vibration compensation system
 
 <p align="center">
-  <img src="Video/Gif.gif" alt="Demonstration of the folding mechanism" width="50%">
+  <img src="Video/Gif.gif" alt="Demonstration of the folding mechanism" width="70%">
   <br>
 </p>
 
