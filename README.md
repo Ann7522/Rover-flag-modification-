@@ -1,4 +1,3 @@
-# Rover-flag-modification-
 
 # 🚩 Mobile Robot Flag System (Yandex Rover Modification)
 
