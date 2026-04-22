@@ -100,8 +100,8 @@ All parts are manufactured using **PETG**:
 ## 🚀 Future Improvements
 
 * TPU-based damping system
-* Metal inserts
-* Aerodynamic optimization
+* Metal pin inserts 
+* Improved aerodynamics
 
 ---
 
