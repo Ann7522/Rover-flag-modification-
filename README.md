@@ -80,9 +80,12 @@ All parts are manufactured using **PETG**:
 | Bending Moment    | ~0.6–0.9 Nm |
 | Safety Factor     | >10         |
 
+📟 Сalulations [Complete calculations of wind and vibration loads](docs/calculations.md)
+
+
 ---
 
-## 🔧 Recommendations
+## 🎲 Recommendations
 
 * Use threaded inserts for durability
 * Add rubber/TPU layer in compensator
