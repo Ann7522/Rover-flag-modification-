@@ -80,7 +80,7 @@ All parts are manufactured using **PETG**:
 | Bending Moment    | ~0.6–0.9 Nm |
 | Safety Factor     | >10         |
 
-📟 Сalulations [Complete calculations of wind and vibration loads](https://github.com/Ann7522/Rover-flag-modification-/blob/main/dogs/calculations.md))
+📟 Сalulations [Complete calculations of wind and vibration loads](https://github.com/Ann7522/Rover-flag-modification-/blob/main/dogs/calculations.md)
 
 ---
 
