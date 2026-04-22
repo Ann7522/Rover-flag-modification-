@@ -40,7 +40,11 @@ The system consists of 5 main components:
 * Cylindrical reflective flag for 360° visibility
 * Anti-loosening mechanism (Retaining Ring)
 * Vibration compensation system
-  
+
+<p align="center">
+  <img src="Video/Gif.gif" alt="Demonstration of the folding mechanism" width="15%">
+  <br>
+</p>
 
 ---
 
