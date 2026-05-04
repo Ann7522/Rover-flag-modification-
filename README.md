@@ -98,10 +98,10 @@ All parts are manufactured using **PETG**:
 1. Attach the **bush** to the rover using 3 M6 bolts (use large washers)
 2. Screw the **adapter 1** into the bush (M20×2.5 thread)
 3. Attach the **retaining ring** to adapter 1 and secure it with 3 M3 screws (2 into the bush, 1 into adapter 1)
-4. Put **adapter 2** in **adapter 1** and fix it with M3 bolts
 4. Install the **compensator** between adapters 1 and 2
-5. Fix **adapter 2** with 2 M3 screws
-6. Wrap it with reflective tape
+5. Put **adapter 2** in **adapter 1** and fix it with M3 bolts
+6. Fix **compnsator** with 2 M3 screws
+7. Wrap it with reflective tape
    
 ---
 
